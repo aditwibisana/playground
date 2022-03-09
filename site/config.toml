@@ -1,7 +1,7 @@
-baseURL = "https://ruang-guru.github.io/playground/"
+baseURL = "https://aditwibisana.github.io/playground/"
 languageCode = "en-us"
-title = "Ruangguru Engineering"
-theme = "minimal"
+title = "Aditya Wibisana"
+theme = "ananke"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
