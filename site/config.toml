@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://aditwibisana.github.io/playground/'
 languageCode = 'en-us'
 title = 'Aditya Wibisana'
 theme = "ananke"
